@@ -6,5 +6,22 @@
 > logging for success
 > success !
 > pushing ' API sucessfully loaded '
+> finding color pallete for site 
+    > Shades, base color #ABC981 from adobe
+        > #798F5B
+        > #3F4A2F
+        > #ABC981 base
+        > #B6D689
+        > #96B071
 > initial layout
     > body started
+        > selecting the body
+        > logging for success
+        > success
+        > adding to css
+            > background-color
+            > font-fmaily
+            > margin
+            > padding
+            > box-sizing
+> pushing at 656pm ' body styled and selected '

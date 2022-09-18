@@ -1,0 +1,10 @@
+> starting  600 PM
+> saving API base url and endpoints in variables baseURL and peopleURL
+> base index.html file, stylesheet linked and js file linked 
+> adding API fetch
+> response saved into variable res
+> logging for success
+> success !
+> pushing ' API sucessfully loaded '
+> initial layout
+    > body started

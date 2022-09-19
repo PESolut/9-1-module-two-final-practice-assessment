@@ -46,6 +46,30 @@
                 > adding class to h1
                 > color
         > centering both img and h1
+    > header finished
+    > main started
+        > creating the main
+            > creating main element in var main
+            > appending main to body
+            > creating the sections 1, 2, 3, 4
+            > SECTION 1
+                > created element section in var mainSec1
+                > creating h2 element in var mainSec1H2
+                    > add text content
+                    > appending to main
+                > creating the selection element in var mainSec1Select
+                > creating the br element in var mainSec1Br
+                    > styling
+                        > width set to 50%
+            > SECTION 2
+                > created h4 element in var mainSec2H4
+                    > textcontent
+                    > class itallic added to element
+                > appending h4 to section
+                > creating form element in var mainSec2Form
+
+                > appending form to section
+
 > pushing at 656pm ' body styled and selected '
 > 10 minute break
 > stopping at 657PM
@@ -55,3 +79,17 @@
 > i need to put my header img and h1 inside of a div with the class of .center and .header so i can center the div
 > nvm...
 > pushing ' header fully styled '
+> pushing ' added empty sections, partially populated section 1 '
+> stopping at 943 PM.
+> notes: hahaha. all thats left is the rest of the instructions. use a for loop to populate the selection. gonna do in morning the way im doing now, for now im gonna scratch and do via no DOM manipulation.....
+> notes: after i break for some hours.
+> starting 845 AM SEP 19
+> pushing 'sections 1,2,3,4 created and appeneded, sections 1,2 partially populated with no functionality'
+
+> pushing '
+> resources: 
+    > https://www.w3schools.com/tags/tag_img.asp
+    > https://www.w3schools.com/css/css3_borders.asp
+    > https://www.w3schools.com/css/css_align.asp
+    > https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/
+    > https://www.w3schools.com/css/css_align.asp

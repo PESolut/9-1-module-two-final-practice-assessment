@@ -15,7 +15,7 @@ header {
 .image{
     height: 100px;
     width: 100px;
-    border-radius: 25px;
+    border-radius: 50px;
 }
 
 .header  {
@@ -25,8 +25,18 @@ header {
 .center {
   margin: auto;
   width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+  /* border: 3px solid green; */
 }
 /* centering our image and header */
 
+.header .center{ 
+    padding: 10px
+}
+
+hr {
+    width: 50%
+}
+
+.itallic {
+    font-style: italic
+}

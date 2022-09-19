@@ -5,3 +5,22 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: #000000
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+.header  {
+    color: rgb(255,255,255)
+}
+
+/* centering our image and header */
+

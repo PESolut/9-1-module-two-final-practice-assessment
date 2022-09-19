@@ -24,4 +24,31 @@
             > margin
             > padding
             > box-sizing
+    > body finished
+    > header started
+        > creating the header element
+        > appending to body
+        > styling 
+            height
+            width
+        > creating img
+            > creating img element in variable headerImg
+            > adding img classes
+            > adding img src
+            > styling img
+                > height 100px
+                > width 100 px
+                > border-radius
+                > background
+        > creating h1 with text content "Random People App"
+            > textcontent
+            > styling
+                > adding class to h1
+                > color
+        > centering both img and h1
 > pushing at 656pm ' body styled and selected '
+> 10 minute break
+> stopping at 657PM
+> starting at 708PM
+> stopping at 757PM at centering both img and h1
+> pushing 'header created, text content added and styled'

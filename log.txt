@@ -52,3 +52,6 @@
 > starting at 708PM
 > stopping at 757PM at centering both img and h1
 > pushing 'header created, text content added and styled'
+> i need to put my header img and h1 inside of a div with the class of .center and .header so i can center the div
+> nvm...
+> pushing ' header fully styled '

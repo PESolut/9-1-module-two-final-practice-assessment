@@ -22,5 +22,11 @@ header {
     color: rgb(255,255,255)
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
 /* centering our image and header */
 

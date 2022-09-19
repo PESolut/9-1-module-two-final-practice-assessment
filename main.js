@@ -12,6 +12,8 @@ headerImg.classList.add('header')
 headerImg.classList.add('image')
 headerH1.classList.add('header')
 headerH1.classList.add('h1')
+header.classList.add('center')
+
 
 // appends
 body.append(header)
